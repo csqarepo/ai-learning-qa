@@ -1,5 +1,3 @@
-do this too : # AI Learning Roadmap for QA Engineers
-
 A structured roadmap for **QA Engineers, Software Testers, SDETs, Automation Engineers, and QA Managers (2–15 years experience)** to learn Artificial Intelligence and apply it to **real testing workflows**.
 
 This roadmap focuses on:
